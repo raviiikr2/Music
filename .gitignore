@@ -13,3 +13,30 @@
 .externalNativeBuild
 .cxx
 local.properties
+# Gradle files
+.gradle/
+build/
+*/build/
+
+# Local configuration
+local.properties
+*.iml
+
+# IntelliJ / Android Studio
+.idea/
+*.ipr
+*.iws
+*.iml
+
+# MacOS
+.DS_Store
+
+# Log files
+*.log
+
+# Keystore files (don’t share signing keys!)
+*.jks
+*.keystore
+
+# External build folders
+.cxx/
