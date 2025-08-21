@@ -44,6 +44,6 @@ fun HomeView(innerPadding : PaddingValues){
                 })
         }
     ){
-        Text(text = "Home", modifier = Modifier.padding(it))
+        Text(text = "HI", modifier = Modifier.padding(it))
     }
 }
